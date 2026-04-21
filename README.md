@@ -44,12 +44,13 @@ Blade replacement is generally recomended after 3000-4000 cuts, depending on the
 <br/><br/>
 
 ## Licenced manufacturers
-Crossbow is being manufactured under license by:<br/><br/>
-<a href="https://aliexpress.com/store/3480083">![Fysetc](docs/images/fysetc.png)<br/>Fysetc AliExpress Store</a>
-<br/>
-Buy it now: 
-* <a href="https://www.fysetc.com/products/fysetc-cnc-crossbow-filament-cutter-used-for-printed-toolheads-compatible-with-a4t-sherpa-mini-oribiter-v2-0-dragon-burner">Fysetc Website</a>
-* <a href="https://aliexpress.com/item/1005009769281594.html">AliExpress</a>
+Crossbow is being manufactured under license by:<br/>
+| Fysetc                                            | Trianglelab                                       | BLV                                               |
+| ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ![Fysetc](docs/images/fysetc.png)                 | ![alt text](docs/images/tl.png)                   | ![alt text](docs/images/blv.png)                  |
+| https://aliexpress.com/item/1005009769281594.html | https://aliexpress.com/item/1005011557554076.html | https://aliexpress.com/item/1005011575849723.html |
+
+
 <br/><br/>
 > [!TIP] 
 > ### You can help support the development of this project.<br/>
