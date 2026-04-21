@@ -45,11 +45,12 @@ Blade replacement is generally recomended after 3000-4000 cuts, depending on the
 
 ## Licenced manufacturers
 Crossbow is being manufactured under license by:<br/>
-| Fysetc                                            | Trianglelab                                       | BLV                                               |
-| ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| ![Fysetc](docs/images/fysetc.png)                 | ![alt text](docs/images/tl.png)                   | ![alt text](docs/images/blv.png)                  |
-| https://aliexpress.com/item/1005009769281594.html | https://aliexpress.com/item/1005011557554076.html | https://aliexpress.com/item/1005011575849723.html |
 
+| Manufacturer                                                    | Purchase Link                                     |
+| --------------------------------------------------------------- | ------------------------------------------------- |
+| ![Fysetc](docs/images/fysetc.png) <br/> <center>Fysetc</center> | https://aliexpress.com/item/1005009769281594.html |
+| ![alt text](docs/images/tl.png)                                 | https://aliexpress.com/item/1005011557554076.html |
+| ![alt text](docs/images/blv.png)                                | https://aliexpress.com/item/1005011575849723.html |
 
 <br/><br/>
 > [!TIP] 
