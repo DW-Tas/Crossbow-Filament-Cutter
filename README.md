@@ -43,6 +43,18 @@ Blade replacement is generally recomended after 3000-4000 cuts, depending on the
 
 <br/><br/>
 
+## Metal top cap
+
+> [!WARNING] 
+> There is a small metal piece in the kit that is a top cap that sits above the blade.
+
+Install it into the printed part that holds the Crossbow between your extruder and toolhead.<br>
+<img src="docs/images/printed_spacer.png" width="300" height="200"/>
+
+
+
+<br><br>
+
 ## Licenced manufacturers
 Crossbow is being manufactured under license by:<br/>
 
